@@ -12,3 +12,6 @@ cd .. - move up to the parent folder
 `git add .` - stage all my changes
 `git commit -m "message to yourself"` - commit your changes
 `git push origin master` - push to github
+
+
+Adding some text
